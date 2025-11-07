@@ -4,6 +4,4 @@
 - Skripty připraveny pro automatický deploy.
 - Nastaven Timeout na 30s a restart agenta po konfiguraci.
 
-**Export nevím jak udělat, protože v enceladusu nemám dostatečné práva**
-
-("C:\Users\libalv\zabbix01-libalv\Images\ubuntu-libalv.png")
+![Screenshot](Images/ubuntu-libalv.png)
